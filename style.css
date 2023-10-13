@@ -26,7 +26,7 @@ div.img {
     border: 0px;
     z-index: 1;
     width: 20vw;
-    length: auto;
+    height: auto;
 }
 div.topthing2 {
     position: fixed;
