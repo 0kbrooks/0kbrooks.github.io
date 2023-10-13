@@ -1,0 +1,33 @@
+div.topthing {
+    position: fixed;
+    padding-right: 100vw;
+    border-right: 100vw;
+    background-color: #708090;
+    left: 0px;
+    top: 0px;
+    color: white;
+    z-index: 10;
+}
+div.topname {
+    position: fixed;
+    right: 100px;
+    top: 20px;
+}
+body {
+    background-color: #5A5A5A;
+    color: antiquewhite;
+    font-size: 1.5em;
+    padding-right: 300px;
+}
+div.img {
+    position: absolute;
+    right:0px;
+    padding: 0px;
+    border: 0px;
+    z-index: 1;
+}
+div.topthing2 {
+    position: fixed;
+    top: 0px;
+    right: 10px;
+}
